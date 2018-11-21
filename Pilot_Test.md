@@ -1,9 +1,9 @@
 For HeatMap:
 
-RV.Q1: When is the first best friendship formed and who are them?
+RV.Q1: When 16 and 2 become best friend?
 
 
-RV.Q2: Which period have the largest number of best friend?
+RV.Q2: When 13 and 4 become best friend?
 
 
 RV.Q3: When 9 and 1 become best friend?
